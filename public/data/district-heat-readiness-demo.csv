@@ -1,0 +1,11 @@
+district,state,heat_exposure_index_0_100,plan_readiness_index_0_100,cooling_access_index_0_100,data_status
+Mumbai,Maharashtra,82,76,71,SYNTHETIC_DEMO_DATA
+Pune,Maharashtra,73,81,68,SYNTHETIC_DEMO_DATA
+Nashik,Maharashtra,69,64,52,SYNTHETIC_DEMO_DATA
+Nagpur,Maharashtra,91,59,44,SYNTHETIC_DEMO_DATA
+Solapur,Maharashtra,88,52,39,SYNTHETIC_DEMO_DATA
+Jalgaon,Maharashtra,84,57,47,SYNTHETIC_DEMO_DATA
+Kolhapur,Maharashtra,61,79,73,SYNTHETIC_DEMO_DATA
+Amravati,Maharashtra,86,62,46,SYNTHETIC_DEMO_DATA
+Chandrapur,Maharashtra,89,55,42,SYNTHETIC_DEMO_DATA
+Chhatrapati Sambhajinagar,Maharashtra,78,66,54,SYNTHETIC_DEMO_DATA

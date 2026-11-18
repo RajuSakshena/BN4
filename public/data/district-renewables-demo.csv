@@ -1,0 +1,11 @@
+district,state,solar_capacity_illustrative_gw,wind_capacity_illustrative_gw,total_renewable_capacity_illustrative_gw,data_status
+Mumbai,Maharashtra,1.8,0.2,2.0,SYNTHETIC_DEMO_DATA
+Pune,Maharashtra,2.6,0.8,3.4,SYNTHETIC_DEMO_DATA
+Nashik,Maharashtra,2.1,1.2,3.3,SYNTHETIC_DEMO_DATA
+Nagpur,Maharashtra,1.6,0.3,1.9,SYNTHETIC_DEMO_DATA
+Solapur,Maharashtra,3.1,1.4,4.5,SYNTHETIC_DEMO_DATA
+Jalgaon,Maharashtra,2.4,0.6,3.0,SYNTHETIC_DEMO_DATA
+Kolhapur,Maharashtra,1.2,1.0,2.2,SYNTHETIC_DEMO_DATA
+Amravati,Maharashtra,2.0,0.4,2.4,SYNTHETIC_DEMO_DATA
+Chandrapur,Maharashtra,1.5,0.2,1.7,SYNTHETIC_DEMO_DATA
+Chhatrapati Sambhajinagar,Maharashtra,2.7,0.7,3.4,SYNTHETIC_DEMO_DATA
